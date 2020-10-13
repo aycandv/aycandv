@@ -5,12 +5,7 @@
 - 🌱 I’m currently learning Machine Learning
 - 📫 How to reach me: aycandv@gmail.com
 
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aycandv&count_private=true&theme=tokyonight&langs_count=6&layout=compact" /> <img align="center" src="https://github-readme-stats.vercel.app/api/?username=aycandv&count_private=true&show_icons=true&theme=tokyonight" />
-
-
-
-
-
+<img align="center" src="https://github-readme-stats.vercel.app/api/?username=aycandv&count_private=true&show_icons=true&theme=vue&include_all_commits=true&hide_border=true" /> <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aycandv&count_private=true&hide=tcl,html,TeX,Roff&theme=vue&langs_count=11&layout=compact&hide_border=true" /> 
 
 
 <!--
