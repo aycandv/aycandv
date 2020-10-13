@@ -5,7 +5,13 @@
 - 🌱 I’m currently learning Machine Learning
 - 📫 How to reach me: aycandv@gmail.com
 
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aycandv&count_private=true&theme=tokyonight" /> <img align="center" src="https://github-readme-stats.vercel.app/api/?username=aycandv&count_private=true&show_icons=true&theme=tokyonight" />
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aycandv&count_private=true&theme=tokyonight&langs_count=6&layout=compact" /> <img align="center" src="https://github-readme-stats.vercel.app/api/?username=aycandv&count_private=true&show_icons=true&theme=tokyonight" />
+
+
+
+
+
+
 
 <!--
 **aycandv/aycandv** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
