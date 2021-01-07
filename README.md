@@ -1,6 +1,6 @@
 <h1 align='center'>
     Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
-    <p align="left"> <img src="https://komarev.com/ghpvc/?username=aycandv" alt="aycandv" /> </p>
+    <!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=aycandv" alt="aycandv" /> </p> -->
 </h1>
 
 <p align='center'>
