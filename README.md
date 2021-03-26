@@ -18,7 +18,7 @@
 </p>
 
 - 🔭 I’m currently working on Silicon Photonics Design & Optimization
-<!-- - 🌱 I’m currently learning Machine Learning -->
+- 🌱 I’m currently learning Computer and Network Security
 - 📫 How to reach me: aycandv@gmail.com
 
 <p align='center'>
