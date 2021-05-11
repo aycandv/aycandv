@@ -25,7 +25,7 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api/?username=aycandv&count_private=true&show_icons=true&theme=vue&include_all_commits=true&hide_border=true" /> <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aycandv&count_private=true&hide=tcl,html,TeX,Roff&theme=vue&langs_count=11&layout=compact&hide_border=true" /> 
 </p>
 
-## Skills
+## Languages and Tools
 <!--
 <img src="https://img.shields.io/badge/python%20-%2314354C.svg?&style=for-the-badge&logo=python&logoColor=white" />&nbsp;&nbsp; 
 <img src="https://img.shields.io/badge/c%20-%2300599C.svg?&style=for-the-badge&logo=c&logoColor=white" />&nbsp;&nbsp; 
