@@ -22,8 +22,8 @@
 - 📫 How to reach me: aycandv@gmail.com
 
 <p align='center'>
-  <img align="center" src="https://github-readme-stats.vercel.app/api/?username=aycandv&count_private=true&show_icons=true&theme=vue&include_all_commits=true&hide_border=true" /> 
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aycandv&count_private=true&hide=tcl,html,TeX,Roff&theme=vue&langs_count=8&layout=compact&hide_border=true" /> 
+  <img align="center" src="https://github-readme-stats.vercel.app/api/?username=aycandv&count_private=true&show_icons=true&theme=algolia&include_all_commits=true&hide_border=true" /> 
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aycandv&count_private=true&hide=tcl,html,TeX,Roff&theme=algolia&langs_count=8&layout=compact&hide_border=true" /> 
 </p>
 
 ## Languages and Tools
