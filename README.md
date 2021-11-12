@@ -21,8 +21,17 @@
 - 🌱 I’m currently learning Computer and Network Security
 - 📫 How to reach me: aycandv@gmail.com
 
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=aycandv&fire=eb1b0c&ring=eb1b0c&currStreakLabel=eb1b0c&theme=algolia&hide_border=true" />
+</div>
+
+<div align="center"> 
   <img align="center" src="https://github-readme-stats.vercel.app/api/?username=aycandv&count_private=true&show_icons=true&theme=algolia&include_all_commits=true&hide_border=true" height="192px" /> 
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aycandv&count_private=true&hide=tcl,html,TeX,Roff&theme=algolia&langs_count=8&layout=compact&hide_border=true" height="192px" /> 
+</div>
+
+
+
 
 ## Languages and Tools
 <!--
