@@ -3,7 +3,7 @@
     <!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=aycandv" alt="aycandv" /> </p> -->
 </h1>
 
-<p align=''>
+<p align='center'>
   <!--<a href="https://wa.me/5518996643974?text=Olá!%20Alexandre">
     <img src="https://img.shields.io/badge/WHATSAPP-%2325D366.svg?&style=for-the-badge&logo=whatsapp&logoColor=white" />    
   </a>&nbsp;&nbsp;-->
