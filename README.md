@@ -3,7 +3,7 @@
     <!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=aycandv" alt="aycandv" /> </p> -->
 </h1>
 
-<p align='center'>
+<p align=''>
   <!--<a href="https://wa.me/5518996643974?text=Olá!%20Alexandre">
     <img src="https://img.shields.io/badge/WHATSAPP-%2325D366.svg?&style=for-the-badge&logo=whatsapp&logoColor=white" />    
   </a>&nbsp;&nbsp;-->
@@ -18,8 +18,7 @@
 </p>
 
 - 🔭 I’m currently working on Silicon Photonics Design & Optimization
-- 🌱 I’m currently learning Computer and Network Security
-- 📫 How to reach me: aycandv@gmail.com
+- 🌱 I’m currently learning Robotics
 
 <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=aycandv&fire=eb1b0c&ring=eb1b0c&currStreakLabel=eb1b0c&theme=algolia&hide_border=true" />
