@@ -3,13 +3,14 @@
     <!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=aycandv" alt="aycandv" /> </p> -->
 </h1>
 
-<p align='center'>
+<p align=''>
   <!--<a href="https://wa.me/5518996643974?text=Olá!%20Alexandre">
     <img src="https://img.shields.io/badge/WHATSAPP-%2325D366.svg?&style=for-the-badge&logo=whatsapp&logoColor=white" />    
   </a>&nbsp;&nbsp;-->
   <a href="https://www.linkedin.com/in/aycan-deniz-vit-551518151/">
     <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>&nbsp;&nbsp;
+  <a href="https://medium.com/@aycandv" target="_blank"><img alt="Medium" src="https://img.shields.io/badge/medium-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=white" /></a>&nbsp;&nbsp;
   <a href="mailto:aycandv@gmail.com">
     <img src="https://img.shields.io/badge/gmail-D14836?&style=for-the-badge&logo=gmail&logoColor=white" />
   </a>&nbsp;&nbsp;
