@@ -26,8 +26,8 @@
 </div>
 
 <div align="center"> 
-  <img align="center" src="https://github-readme-stats.vercel.app/api/?username=aycandv&count_private=true&show_icons=true&theme=algolia&bg_color=0,000000,231F50&include_all_commits=true&hide_border=true" height="192px" /> 
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aycandv&count_private=true&hide=tcl,html,TeX,Roff&theme=algolia&bg_color=0,231F50,000000&langs_count=8&layout=compact&hide_border=true" height="192px" /> 
+  <img align="center" src="https://github-readme-stats.vercel.app/api/?username=aycandv&count_private=true&show_icons=true&theme=algolia&bg_color=0,000007,261F65&include_all_commits=true&hide_border=true" height="192px" /> 
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aycandv&count_private=true&hide=tcl,html,TeX,Roff&theme=algolia&bg_color=0,261F65,000007&langs_count=8&layout=compact&hide_border=true" height="192px" /> 
 </div>
 
 
