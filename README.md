@@ -11,7 +11,7 @@
     <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>&nbsp;&nbsp;
   <a href="https://medium.com/@aycandv" target="_blank"><img alt="Medium" src="https://img.shields.io/badge/medium-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=white" /></a>&nbsp;&nbsp;
-  <a href="mailto:aycandv@gmail.com">
+  <a href="mailto:aycandv+ghmd@gmail.com">
     <img src="https://img.shields.io/badge/gmail-D14836?&style=for-the-badge&logo=gmail&logoColor=white" />
   </a>&nbsp;&nbsp;
     
