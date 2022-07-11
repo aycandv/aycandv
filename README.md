@@ -1,5 +1,5 @@
 <h1 align='center'>
-    <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="5px">
+    <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="35px">
     <!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=aycandv" alt="aycandv" /> </p> -->
 </h1>
 
