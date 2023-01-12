@@ -19,7 +19,7 @@
 </p>
 
 - 🔭 I’m currently working on Silicon Photonics Design & Optimization
-- 🌱 I’m currently learning Robotics
+- 🌱 I’m currently learning Photonics Neural Networks
 
 <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=aycandv&fire=eb1b0c&ring=eb1b0c&currStreakLabel=eb1b0c&theme=algolia&hide_border=true" />
